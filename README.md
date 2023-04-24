@@ -1,4 +1,4 @@
-### :man_technologist: About Me :
+### :pushpin: About Me :
 I am a Developer from Russia.
 
 ---
