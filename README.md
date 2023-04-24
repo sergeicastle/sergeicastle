@@ -1,4 +1,4 @@
-### :pushpin: About Me :
+### :bookmark_tabs: About Me :
 I am a Developer from Russia.
 
 ---
